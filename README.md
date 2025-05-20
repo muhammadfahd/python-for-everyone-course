@@ -24,8 +24,8 @@ Summary
 
 Day  |Date | Summary | Important Resources
 ---------|---------|-----------|--------|
- Monday| 19th May 2025 | Basics & Running First Program | [Day 1 Detail](./Week%2001%20Day%2001/W1-D1-Basic-and-intro-Python-for-Everyone.pdf)
- 
+ Monday| 19th May 2025 | Basics & Running First Program | [Day 1 Detail](./Week%2001%20Day%2001/W1-D1-Basic-and-intro-Python-for-Everyone.pdf) |
+ |Tuesday | 20th May 2025 | Character Set, Comments, Variables, Expressions, Data Types: | [Day 2 Detail](./week%2001%20Day%2002.ipynb)
 
 ---
  Join Icodeguru for Live Classes 
