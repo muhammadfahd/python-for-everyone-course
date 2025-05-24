@@ -10,7 +10,7 @@ Welcome to **Python For Everyone**, a beginner-friendly Python course designed t
 - **Course Title:** Python For Everyone  
 - **Duration:** 4 Weeks  
 - **Trainers:** Muhammad Aqib Javed | Samina Jan | Umer Majeed  
-- **Moderators:** M Fahad Bashir, Mehtab Ahmed  
+- **Moderators:** M Fahad Bashir |  Mehtab Ahmed  
 - **Start Date:** May 19, 2025  
 - **End Date:** June 09, 2025  
 - **Timing:** Monday to Friday, 12 PM - 1 PM  
@@ -30,6 +30,8 @@ Day  |Date | Summary | Important Resources
  Monday| 19th May 2025 | Basics & Running First Program | [Day 1 Detail](./Week%2001%20Day%2001/W1-D1-Basic-and-intro-Python-for-Everyone.pdf) |
  |Tuesday | 20th May 2025 | Character Set, Comments, Variables, Expressions, Data Types: | [Day 2 Detail](./week%2001%20Day%2002.ipynb) |
  |Wednesday | 21st May 2025 | Input Function, Data Types & Printing Like a Pro | [Day 3 Detail](./week%2001%20Day%2003.ipynb) | 
+ Thursday | 22 May 2025 | Operators in Detail (i.e compariosn, conditional ,logical) | [Day 4 Detail](./week%2001%20Day%2004.ipynb)|
+ |Friday | 23rd May 2025 | String and Control Statement (if-else) | [Day 5 Detail ](./week%2001%20Day%2005.ipynb)
 
 ---
  Join Icodeguru for Live Classes 
