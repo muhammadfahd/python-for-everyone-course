@@ -22,7 +22,7 @@ Summary
 * [Youtube Play List](https://youtube.com/playlist?list=PLAIRSMdFhzoKg8KZ5zIbH64wtV8bhshfT&si=H5yTKkYCQ8nGCJSy)
 * [Course Outline](https://docs.google.com/document/d/1H8JPEUBhrBX83VZbKR4VXVPikYoTMA5-7BYeYFLI3YQ/edit?tab=t.0#heading=h.7yu0y8c9omva)
 * [Resource Sheet](https://docs.google.com/spreadsheets/d/1MOHfhPVkqtoYNnDvMVxj_tXuYEdQWkZpoIhddt3dFIo/edit?gid=0#gid=0)
-
+* [ICodeGuru Facebook Page](https://www.facebook.com/iCodeguru)
 
 
 Day  |Date | Summary | Important Resources
@@ -31,7 +31,9 @@ Day  |Date | Summary | Important Resources
  |Tuesday | 20th May 2025 | Character Set, Comments, Variables, Expressions, Data Types: | [Day 2 Detail](./week%2001%20Day%2002.ipynb) |
  |Wednesday | 21st May 2025 | Input Function, Data Types & Printing Like a Pro | [Day 3 Detail](./week%2001%20Day%2003.ipynb) | 
  Thursday | 22 May 2025 | Operators in Detail (i.e compariosn, conditional ,logical) | [Day 4 Detail](./week%2001%20Day%2004.ipynb)|
- |Friday | 23rd May 2025 | String and Control Statement (if-else) | [Day 5 Detail ](./week%2001%20Day%2005.ipynb)
+ |Friday | 23rd May 2025 | String and Control Statement (if-else) | [Day 5 Detail ](./week%2001%20Day%2005.ipynb)|
+ |__________|WEEK 2 |__________|_________|________|
+ |Monday | 26th May 2025 | Loops (For, While) & Lists | [Week 02 Day 01](./Week%2002%20Day%2001.ipynb)
 
 ---
  Join Icodeguru for Live Classes 
