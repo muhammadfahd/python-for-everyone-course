@@ -33,7 +33,8 @@ Day  |Date | Summary | Important Resources
  Thursday | 22 May 2025 | Operators in Detail (i.e compariosn, conditional ,logical) | [Day 4 Detail](./week%2001%20Day%2004.ipynb)|
  |Friday | 23rd May 2025 | String and Control Statement (if-else) | [Day 5 Detail ](./week%2001%20Day%2005.ipynb)|
  |__________|WEEK 2 |__________|_________|________|
- |Monday | 26th May 2025 | Loops (For, While) & Lists | [Week 02 Day 01](./Week%2002%20Day%2001.ipynb)
+ |Monday | 26th May 2025 | Loops (For, While) & Lists | [Week 02 Day 01](./Week%2002%20Day%2001.ipynb)|
+ |Tuesday | 27th May 2025 | Tuples and sets with operations | [Week 02 Day 02](./week%2001%20Day%2002.ipynb)
 
 ---
  Join Icodeguru for Live Classes 
