@@ -37,6 +37,9 @@ Day  |Date | Summary | Important Resources
  |Tuesday | 27th May 2025 | Tuples and sets with operations | [Week 02 Day 02](./week%2001%20Day%2002.ipynb)|
  |Wednesday | 28th May 2025 | Sets and its operations| [Week 02 Day 03 ](./Week%2002%20Day%2003.ipynb)|
  |Thursday | 29th May 2025 | Dictionary & Function| [Week 02 Day 04](./Week%2002%20Day%2004.ipynb)|
+ |Friday | 30th May 2025 | Nested Loops & Function with practise Examples | [Week 02 Day 05](./Week%2002%20Day%2005.ipynb)
+  |__________|WEEK 3 |__________|_________|________|
+
 
 ---
  Join Icodeguru for Live Classes 
