@@ -39,7 +39,7 @@ Day  |Date | Summary | Important Resources
  |Thursday | 29th May 2025 | Dictionary & Function| [Week 02 Day 04](./Week%2002%20Day%2004.ipynb)|
  |Friday | 30th May 2025 | Nested Loops & Function with practise Examples | [Week 02 Day 05](./Week%2002%20Day%2005.ipynb)
   |__________|WEEK 3 |__________|_________|________|
-
+|Monday | 02 June 2025 | Nested Lists,List comprehension & iteration over list and string | [Week 03 Day 01](./Week%2003%20Day%2001.ipynb)
 
 ---
  Join Icodeguru for Live Classes 
