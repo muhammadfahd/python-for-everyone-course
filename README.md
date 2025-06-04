@@ -40,6 +40,6 @@ Day  |Date | Summary | Important Resources
  |Friday | 30th May 2025 | Nested Loops & Function with practise Examples | [Week 02 Day 05](./Week%2002%20Day%2005.ipynb)
   |__________|WEEK 3 |__________|_________|________|
 |Monday | 02 June 2025 | Nested Lists,List comprehension & iteration over list and string | [Week 03 Day 01](./Week%2003%20Day%2001.ipynb)
-
+| Tuesday | 03 June 2025 | Combining Data Structures, zip(), enumerate(), and More | [Week 03 Day 02](./Week%2003%20Day%2002.ipynb)| 
 ---
  Join Icodeguru for Live Classes 
