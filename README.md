@@ -41,5 +41,7 @@ Day  |Date | Summary | Important Resources
   |__________|WEEK 3 |__________|_________|________|
 |Monday | 02 June 2025 | Nested Lists,List comprehension & iteration over list and string | [Week 03 Day 01](./Week%2003%20Day%2001.ipynb)
 | Tuesday | 03 June 2025 | Combining Data Structures, zip(), enumerate(), and More | [Week 03 Day 02](./Week%2003%20Day%2002.ipynb)| 
+|Wednesday | 04 June 2025 | Membership Testing & Sorting | [Week 03 Day 03 ](./Week%2003%20Day%2003.ipynb) | 
+| Thursday | 05 June 2025 | Sorting , Search & Lambda Function | [Week 03 Day 04](./Week%2003%20Day%2004.ipynb) |
 ---
  Join Icodeguru for Live Classes 
